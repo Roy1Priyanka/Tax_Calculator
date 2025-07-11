@@ -65,4 +65,12 @@ Less than 40 years
 
 Smart error handling ensures a user-friendly experience with real-time feedback.
 
+
+**## 🔗 Live Demo**
+
+[Click here to try the Tax Calculator Web App](https://taxcalculatorwebsite.netlify.app/)
+
+> Hosted on Netlify
+
+
 The app is tested with various edge cases to ensure accurate results in different scenarios.
