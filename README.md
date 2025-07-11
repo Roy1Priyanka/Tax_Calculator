@@ -3,6 +3,7 @@
 Welcome to the Tax Calculator Web Application — a simple and smart tool built to help you calculate your taxes with ease. Whether you're checking your annual liability or planning your deductions, this app takes the guesswork out of tax season.
 
 **🌟 Key Features**
+
 ✅ Easy Tax Estimation
 Just enter your income, deductions, and age — and get a quick, clear breakdown of your estimated tax.
 
