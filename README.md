@@ -20,6 +20,7 @@ Once you hit "Submit", a neat modal pops up showing your total tax in a well-org
 It works smoothly on desktops, tablets, and phones — so you can use it wherever you are.
 
 **🚀 Getting Started**
+
 Clone the Repository
 Clone the project to your local machine using your preferred Git tool.
 
