@@ -2,7 +2,7 @@
 
 Welcome to the Tax Calculator Web Application — a simple and smart tool built to help you calculate your taxes with ease. Whether you're checking your annual liability or planning your deductions, this app takes the guesswork out of tax season.
 
-🌟 Key Features
+**🌟 Key Features**
 ✅ Easy Tax Estimation
 Just enter your income, deductions, and age — and get a quick, clear breakdown of your estimated tax.
 
@@ -18,7 +18,7 @@ Once you hit "Submit", a neat modal pops up showing your total tax in a well-org
 ✅ Fully Responsive Design
 It works smoothly on desktops, tablets, and phones — so you can use it wherever you are.
 
-🚀 Getting Started
+**🚀 Getting Started**
 Clone the Repository
 Clone the project to your local machine using your preferred Git tool.
 
@@ -41,14 +41,16 @@ Any invalid or missing input is highlighted with intuitive icons and tooltips �
 Click "Submit"
 The calculator will do its thing and present your estimated tax in a sleek modal popup.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
+
 HTML – Structure of the app
 
 CSS – Styling and layout
 
 JavaScript – Logic and interactivity
 
-📌 Notes & Assumptions
+**📌 Notes & Assumptions**
+
 All income/deduction values are in Lakhs (e.g., 5 = ₹5,00,000)
 
 Age groups are:
